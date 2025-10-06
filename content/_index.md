@@ -1,6 +1,6 @@
 ---
 title: "Home"
-outputs: ["HTML", "RSS", "JSON"]
+# outputs: ["HTML", "RSS", "JSON"]
 ---
 
 # Welcome

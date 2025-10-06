@@ -1,6 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://fmikiw.github.io/cv/'
 languageCode = 'en-us'
 title = 'fmiki works'
 theme = 'hugo-book'
-
-#googleAnalytics = 'G-XXXXXXXXXX'
+googleAnalytics = "G-1FXVQ987CE"

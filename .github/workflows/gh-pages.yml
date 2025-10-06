@@ -21,7 +21,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.128.0'  # ←あなたのローカルに合わせてOK（例のまま）
+          hugo-version: '0.150.1'  # ←あなたのローカルに合わせてOK（例のまま）
           extended: true
 
       - name: Build site

@@ -15,4 +15,3 @@ This website presents Mikiko FUJITA's research achievements.
 {{< publications_selected >}}
 
 
-# AAA

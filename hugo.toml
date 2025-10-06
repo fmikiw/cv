@@ -1,6 +1,6 @@
 baseURL = 'https://fmikiw.github.io/cv/'
 languageCode = 'en-us'
-title = 'fmiki works'
+title = ''
 theme = 'hugo-book'
 googleAnalytics = "G-1FXVQ987CE"
 

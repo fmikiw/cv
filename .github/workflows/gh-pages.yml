@@ -21,11 +21,11 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.150.1'  # ←あなたのローカルに合わせてOK（例のまま）
+          hugo-version: '0.150.1'
           extended: true
 
       - name: Build site
-        run: hugo --minify --source .
+        run: hugo --minify --environment production --baseURL "https://fmikiw.github.io/cv/"
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3

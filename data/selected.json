@@ -1,0 +1,109 @@
+[
+  {
+    "year": "2024",
+    "volume": "51",
+    "doi": "10.1029/2023gl106403",
+    "number": "6",
+    "month": "3",
+    "journal": "Geophysical Research Letters",
+    "author": "M. Fujita and N. Sugiura and S. Kouketsu",
+    "title": "Prediction of Atmospheric Profiles With Machine Learning Using the Signature Method",
+    "ENTRYTYPE": "article",
+    "ID": "published_papers/45873384"
+  },
+  {
+    "year": "2020",
+    "volume": "16A",
+    "url": "https://www.jstage.jst.go.jp/article/sola/16A/Special_Edition/16A_16A-004/_pdf",
+    "doi": "10.2151/sola.16a-004",
+    "pages": "19--24",
+    "number": "Special_Edition",
+    "month": "11",
+    "journal": "SOLA",
+    "author": "Mikiko Fujita and Tatsuya Fukuda and Iwao Ueki and Qoosaku Moteki and Tomoki Ushiyama and Kunio Yoneyama",
+    "title": "Experimental Observations of Precipitable Water Vapor over the Open Ocean Collected by Autonomous Surface Vehicles for Real-Time Monitoring Applications",
+    "ENTRYTYPE": "article",
+    "ID": "published_papers/31740176"
+  },
+  {
+    "year": "2019",
+    "doi": "10.1029/2018gl079885",
+    "publisher": "American Geophysical Union ({AGU})",
+    "month": "1",
+    "journal": "Geophysical Research Letters",
+    "author": "M. Fujita and R. Mizuta and M. Ishii and H. Endo and T. Sato and Y. Okada and S. Kawazoe and S. Sugimoto and K. Ishihara and S. Watanabe",
+    "title": "Precipitation Changes in a Climate With 2-K Surface Warming From Large Ensemble Simulations Using 60-km Global and 20-km Regional Atmospheric Models",
+    "ENTRYTYPE": "article",
+    "ID": "published_papers/18130394"
+  },
+  {
+    "year": "2017",
+    "volume": "7",
+    "doi": "10.1038/s41598-017-04443-9",
+    "number": "1",
+    "month": "7",
+    "journal": "SCIENTIFIC REPORTS",
+    "author": "Mikiko Fujita and Tomonori Sato",
+    "title": "Observed behaviours of precipitable water vapour and precipitation intensity in response to upper air profiles estimated from surface air temperature",
+    "ENTRYTYPE": "article",
+    "ID": "published_papers/11392981"
+  },
+  {
+    "year": "2014",
+    "pages": "1085--1089",
+    "month": "9",
+    "journal": "Proceedings of the 27th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2014)",
+    "author": "M. Fujita and A. Wada and T. Iwabuchi and C. Rocken",
+    "title": "Tropospheric monitoring over the ocean using shipborne GNSS receiver",
+    "ENTRYTYPE": "article",
+    "ID": "published_papers/36852652"
+  },
+  {
+    "year": "2012",
+    "volume": "5",
+    "pages": "3454--3458",
+    "journal": "PROCEEDINGS OF THE 25TH INTERNATIONAL TECHNICAL MEETING OF THE SATELLITE DIVISION OF THE INSTITUTE OF NAVIGATION (ION GNSS 2012)",
+    "author": "M. Fujita and A. Wada and T. Iwabuchi and C. Rocken",
+    "title": "GPS Precpitable Water Vapor Dataset for Climate Science",
+    "ENTRYTYPE": "article",
+    "ID": "published_papers/11392987"
+  },
+  {
+    "year": "2011",
+    "volume": "89A",
+    "doi": "10.2151/jmsj.2011-A22",
+    "pages": "317--330",
+    "number": "A",
+    "month": "2",
+    "journal": "JOURNAL OF THE METEOROLOGICAL SOCIETY OF JAPAN",
+    "author": "Mikiko Fujita and Kunio Yoneyama and Shuichi Mori and Tomoe Nasuno and Masaki Satoh",
+    "title": "Diurnal Convection Peaks over the Eastern Indian Ocean off Sumatra during Different MJO Phases",
+    "ENTRYTYPE": "article",
+    "ID": "published_papers/11392988"
+  },
+  {
+    "year": "2010",
+    "volume": "138",
+    "doi": "10.1175/2009MWR3068.1",
+    "pages": "1474--1486",
+    "number": "4",
+    "month": "4",
+    "journal": "MONTHLY WEATHER REVIEW",
+    "author": "Mikiko Fujita and Fujio Kimura and Masanori Yoshizaki",
+    "title": "Morning Precipitation Peak over the Strait of Malacca under a Calm Condition",
+    "ENTRYTYPE": "article",
+    "ID": "published_papers/11392990"
+  },
+  {
+    "year": "2008",
+    "volume": "35",
+    "doi": "10.1029/2008GL033764",
+    "number": "13",
+    "month": "7",
+    "journal": "GEOPHYSICAL RESEARCH LETTERS",
+    "author": "M. Fujita and F. Kimura and K. Yoneyama and M. Yoshizaki",
+    "title": "Verification of precipitable water vapor estimated from shipborne GPS measurements",
+    "ENTRYTYPE": "article",
+    "ID": "published_papers/11392994"
+  }
+]

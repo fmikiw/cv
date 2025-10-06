@@ -1,0 +1,17 @@
+<ul>
+  {{ range sort (index site.Data "japanese") "year" "desc" }}
+    <li>
+      {{- $authors := slice -}}
+      {{- range (split .author " and ") -}}
+        {{- $authors = $authors | append (printf "%s" .) -}}
+      {{- end -}}
+      {{ delimit $authors ", " }}
+
+      ({{ .year }}).
+      <i>{{ .title }}</i>. {{ .journal }}.
+      {{ with .doi }}
+        DOI: <a href="https://doi.org/{{ . }}" target="_blank">{{ . }}</a>
+      {{ end }}
+    </li>
+  {{ end }}
+</ul>

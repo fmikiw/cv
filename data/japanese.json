@@ -1,0 +1,24 @@
+[
+  {
+    "year": "2019",
+    "volume": "38",
+    "number": "3",
+    "journal": "シミュレーション",
+    "author": "山崎剛 and 佐々井崇博 and 川瀬宏明 and 杉本志織 and 大楽浩司 and 伊東瑠衣 and 佐々木秀孝 and 藤田実季子",
+    "title": "5km力学的ダウンスケーリングデータセット（SI-CAT DDS5TK）の概要",
+    "ENTRYTYPE": "article",
+    "ID": "published_papers/26025768"
+  },
+  {
+    "year": "2016",
+    "volume": "72",
+    "doi": "10.2208/jscejhe.72.i_55",
+    "pages": "I_55--I_60",
+    "number": "4",
+    "journal": "土木学会論文集 B1(水工学)",
+    "author": "若月泰孝 and 原政之 and 藤田実季子 and 馬燮銚 and 井上忠雄 and 木村富士男 and 小池俊雄",
+    "title": "気候差分ダウンスケーリング法による関東・中部山岳域の確率論的気候変化予測",
+    "ENTRYTYPE": "article",
+    "ID": "published_papers/27679913"
+  }
+]

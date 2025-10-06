@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/docs/</loc>
+    <loc>https://fmikiw.github.io/cv/docs/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/publications/</loc>
+    <loc>https://fmikiw.github.io/cv/docs/publications/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/cv/</loc>
+    <loc>https://fmikiw.github.io/cv/docs/cv/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://fmikiw.github.io/cv/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://fmikiw.github.io/cv/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://fmikiw.github.io/cv/tags/</loc>
   </url>
 </urlset>

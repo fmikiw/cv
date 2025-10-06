@@ -1,5 +1,6 @@
 ---
 title: "Docs"
+outputs: ["HTML", "RSS"]
 weight: 1
 # bookFlatSection: false
 # bookToc: true

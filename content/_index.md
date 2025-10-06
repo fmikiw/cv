@@ -1,5 +1,8 @@
 ---
 title: "Home"
+outputs: ["HTML"]
+layout: landing
+
 ---
 
 # Welcome

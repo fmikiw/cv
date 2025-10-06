@@ -3,3 +3,10 @@ languageCode = 'en-us'
 title = 'fmiki works'
 theme = 'hugo-book'
 googleAnalytics = "G-1FXVQ987CE"
+
+[outputs]
+home = ["HTML", "RSS"]
+section = ["HTML", "RSS"]
+page = ["HTML", "RSS"]
+term = ["HTML", "RSS"]
+

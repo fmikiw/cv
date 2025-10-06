@@ -1,6 +1,5 @@
 ---
 title: "Home"
-# outputs: ["HTML", "RSS", "JSON"]
 ---
 
 # Welcome
@@ -13,4 +12,4 @@ This website presents Mikiko FUJITA's research achievements.
 {{< publications_selected >}}
 
 
-
+# AAA

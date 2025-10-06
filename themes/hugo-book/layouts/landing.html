@@ -1,0 +1,24 @@
+{{ define "main" }}
+<main class="markdown" style="padding:2rem;max-width:900px;margin:auto;line-height:1.6;">
+  {{ .Content }}
+</main>
+{{ end }}
+
+
+
+{{ define "menu-container" }}
+  {{ partial "docs/menu" . }}
+{{ end }}
+{{ define "toc-container" }}
+  {{ partial "docs/toc" . }}
+{{ end }}
+{{ define "footer" }}
+  {{ partial "docs/footer" . }}
+{{ end }}
+
+{{ define "header" }}
+<nav>
+  {{ partial "docs/menu-hugo" (dict "Page" .Page "Menu" .Site.Menus.home) }}
+</nav>
+{{ end }}
+

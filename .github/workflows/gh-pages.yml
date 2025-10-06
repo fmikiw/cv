@@ -4,10 +4,7 @@ on:
   push:
     branches:
       - main
-    paths:
-      - 'data/**/*.json'   # ← data以下のjsonファイルが更新されたときのみ実行
-      - '.github/workflows/gh-pages.yml'  # ワークフロー自身の変更もトリガー
-      - 'hugo.toml'  # baseURL変更なども反映させたい場合は追加OK
+  workflow_dispatch:  # 手動実行も可
 
 permissions:
   contents: write
@@ -24,7 +21,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.128.0'
+          hugo-version: '0.128.0'  # ←あなたのローカルに合わせてOK（例のまま）
           extended: true
 
       - name: Build site

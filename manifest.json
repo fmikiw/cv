@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "short_name": "",
+  "name": "fmiki",
+  "short_name": "fmiki",
   "start_url": "/cv/",
   "scope": "/cv/",
   "display": "standalone",

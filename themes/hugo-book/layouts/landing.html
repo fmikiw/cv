@@ -4,21 +4,3 @@
 </main>
 {{ end }}
 
-
-
-{{ define "menu-container" }}
-  {{ partial "docs/menu" . }}
-{{ end }}
-{{ define "toc-container" }}
-  {{ partial "docs/toc" . }}
-{{ end }}
-{{ define "footer" }}
-  {{ partial "docs/footer" . }}
-{{ end }}
-
-{{ define "header" }}
-<nav>
-  {{ partial "docs/menu-hugo" (dict "Page" .Page "Menu" .Site.Menus.home) }}
-</nav>
-{{ end }}
-
